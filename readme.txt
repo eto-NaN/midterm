@@ -4,17 +4,15 @@ Controls Used
 
 W, A, S, D -> Move
 SPACE -> Jump
+RETURN -> Shoot
 
 
 Features implemented
 
 Player basic movements (Run and Jump)
-Collectible Mushrooms (coins equivalent)
-Snale as enemy that can hit the player and can being killed by jumping on him
-Winning condition if the player hit the flag at the end of the level
-Minimal HUD with lifes displayed on top left and score and top right
-
-
-Any known bugs
-
-- If the player falls, sometimes at the respawn the camera is broken (the view is not well aligned).
+Collectible red mushrooms (coins equivalent)
+Collectible blue mushrooms (fire flower equivalent)
+Slug (bird equivalent) that can hit the player and can being killed by shooting on him
+A big mushroom base as checkpoint in the middle of the first level
+Winning condition if the player kills the boss at the end of the second level
+HUD with on top left score, coins and lifes and on top right the 3min timer
